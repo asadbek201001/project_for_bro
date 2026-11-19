@@ -1,0 +1,10 @@
+{
+  "description": "A playful English vocabulary game for Uzbek-speaking children, with 100 words, audio lessons, quizzes, rewards, and progress tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
